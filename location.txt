@@ -1,0 +1,14 @@
+VOLCANX020,NUMBER,NAME,LOCATION,STATUS,details,TYPE,TIMEFRAME,LAT,LON
+509.000000000000000,1201-01=,Baker,US-Washington,Historical,3,Stratovolcanoes,D3,48.7767982,-121.8109970
+511.000000000000000,1201-02-,Glacier Peak,US-Washington,Tephrochronology,3,Stratovolcano,D4,48.1118011,-121.1110001
+513.000000000000000,1201-03-,Rainier,US-Washington,Dendrochronology,4,Stratovolcano,D3,46.8698006,-121.7509995
+515.000000000000000,1201-05-,St. Helens,US-Washington,Historical,2,Stratovolcano,D1,46.1997986,-122.1809998
+516.000000000000000,1201-04-,Adams,US-Washington,Tephrochronology,3,Stratovolcano,D6,46.2057991,-121.4909973
+517.000000000000000,1201-06-,West Crater,US-Washington,Radiocarbon,1,Volcanic field,D7,45.8797989,-122.0810013
+518.000000000000000,1201-07-,Indian Heaven,US-Washington,Radiocarbon,1,Shield volcanoes,D7,45.9297981,-121.8209991
+519.000000000000000,1202-01-,Hood,US-Oregon,Historical,3,Stratovolcano,D3,45.3737984,-121.6910019
+521.000000000000000,1202-02-,Jefferson,US-Oregon,Varve Count,3,Stratovolcano,D6,44.6917992,-121.8010025
+522.000000000000000,1202-03-,Blue Lake Crater,US-Oregon,Radiocarbon,1,Maar,D7,44.4197998,-121.7710037
+523.000000000000000,1202-04-,Sand Mountain Field,US-Oregon,Radiocarbon,2,Cinder cones,D7,44.3797989,-121.9309998
+524.000000000000000,1202-05-,Washington,US-Oregon,Radiocarbon,1,Shield volcano,D6,44.3317986,-121.8310013
+
